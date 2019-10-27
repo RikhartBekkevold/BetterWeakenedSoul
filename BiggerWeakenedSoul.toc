@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: BiggerWeakenedSoul
+## Notes: Adds weakened soul debuff icon for priests in classic to easier to see location
+## Author: Jivo
+## Version: 1.0
+## LoadOnDemand: 0
+
+BiggerWeakenedSoul.lua
