@@ -1,0 +1,9 @@
+## Interface: 11303
+## Title: BetterWeakenedSoul
+## Notes: Adds movable and resizable weakened soul debuff icon
+## Author: Jivo
+## Version: 1.0
+## LoadOnDemand: 0
+## SavedVariables: BetterWeakenedSoulDB
+
+BetterWeakenedSoul.lua
